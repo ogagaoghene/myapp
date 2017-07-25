@@ -1,0 +1,19 @@
+div#box {
+    width: 520px;
+    margin: 0 auto;
+    text-align: left;
+    line-height: 1.4em;
+    border: 1px solid #666;
+    padding: 0 2em 0 2em;
+}
+
+div#box h1 {
+    text-align: center;
+}
+
+body {
+    margin-top: 18px;
+    text-align:center;
+    min-width: 580px;
+}
+
